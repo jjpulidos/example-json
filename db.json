@@ -5,5 +5,15 @@
         	"2": "66100020000305",
         	"3": "tablet",
         	"4": "00045048162"
+	},
+	"aug": {
+		"ndc": "00045048162",
+  		"Active Component": "Ibuprofen",
+  		"Other names": "isobutylphenylpropionic acid",
+  		"MedlinePlus": "a682159",
+  		"Protein binding": "98%",
+  		"ATC Code": {
+   			 "WHO": ["C01EB16", "G02CC01", "M01AE01", "M02AA13", "R02AX02"]
+  		}
 	}
 }
